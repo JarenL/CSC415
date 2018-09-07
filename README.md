@@ -3,5 +3,4 @@
 
 ## Disclaimer
 
-This repository is here solely for archival/portfolio purposes.
-I don'tmake any promises on correctness for any other classes that I took
+This repository is here solely for archival/portfolio purposes.I don't make any promises on correctness for any other classes that I took
