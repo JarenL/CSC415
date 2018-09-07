@@ -1,5 +1,10 @@
 # csc415 ![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)
-📗 Projects from my CIS 415 by [San Francisco State University](https://cs.sfsu.edu/courses.html)
+📗 Coursework for CSC 415: Operating System Principles
+
+An introductory level course covering basic principles of operating system
+design and implementation. Advanced C programming covered, 
+including use of Unix system calls as well as standard techniques for implementing
+synchronized concurrent code using both processes and threads
 
 ## Disclaimer
 
